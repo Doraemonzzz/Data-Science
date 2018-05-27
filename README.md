@@ -7,6 +7,5 @@
 	[课本](https://www.inferentialthinking.com/chapters/03/programming-in-python.html)
     视频链接:
     https://pan.baidu.com/s/1vNrZJI0sUgdwzN2NXLPA6Q 
-    密码：f180
-    
+    密码：f180  
 - [MIT Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
