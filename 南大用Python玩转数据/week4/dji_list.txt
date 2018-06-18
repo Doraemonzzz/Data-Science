@@ -1,0 +1,31 @@
+column1,column2,column3
+MMM,3M,205.31
+AXP,American Express,100.38
+AAPL,Apple,190.53
+BA,Boeing,365.73
+CAT,Caterpillar,156.27
+CVX,Chevron,127.23
+CSCO,Cisco,44.42
+KO,Coca-Cola,43.69
+DIS,Disney,108.21
+DWDP,DowDuPont Inc,68.62
+XOM,Exxon Mobil,81.6
+GE,General Electric,13.78
+GS,Goldman Sachs,233.58
+HD,Home Depot,199.8
+IBM,IBM,146.51
+INTC,Intel,55.35
+JNJ,Johnson & Johnson,122.65
+JPM,JPMorgan Chase,108.81
+MCD,McDonald's,167.36
+MRK,Merck,61.73
+MSFT,Microsoft,101.39
+NKE,Nike,74.93
+PFE,Pfizer,36.31
+PG,Procter & Gamble,75.85
+TRV,Travelers Companies Inc,129.31
+UTX,United Technologies,127.02
+UNH,UnitedHealth,255.88
+VZ,Verizon,47.45
+V,Visa,135.47
+WMT,Wal-Mart,84.38
